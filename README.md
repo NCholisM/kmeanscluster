@@ -4,12 +4,12 @@ Proyek ini merupakan implementasi algoritma K-Means Clustering untuk pengelompok
 
 K-Means Clustering adalah algoritma pembelajaran tanpa pengawasan yang digunakan untuk mengelompokkan data menjadi beberapa kelompok. Algoritma ini bekerja dengan cara mengelompokkan data ke dalam cluster berdasarkan kesamaan karakteristik, di mana setiap cluster memiliki centroid sebagai representasi pusatnya.
 
-Fitur:
+Fitur :
 
 - Upload file Excel.
 - Edit dan hapus seluruh data.
 - Pengguna dapat menginput cluster sesuai keinginan dan secara otomatis menentukan centroid.
-- Hasil pengelompokkan disajikan secara urut, dimulai dari kelompok yang kurang diminati hingga kelompok yang cukup diminati.
+- Hasil pengelompokkan disajikan secara urut (kelompok 1,2,3 dst), dimulai dari kelompok yang kurang diminati hingga kelompok yang paling diminati.
 
 ## Screenshot
 

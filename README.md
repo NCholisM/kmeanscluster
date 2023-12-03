@@ -2,15 +2,14 @@
 
 Proyek ini merupakan implementasi algoritma K-Means Clustering untuk pengelompokkan data sekolah dasar di Surabaya. Algoritma K-Means Clustering digunakan untuk mengelompokkan sekolah berdasarkan pola yang ada dalam data, memudahkan pemahaman karakteristik setiap kelompok.
 
-K-Means Clustering:
 K-Means Clustering adalah algoritma pembelajaran tanpa pengawasan yang digunakan untuk mengelompokkan data menjadi beberapa kelompok. Algoritma ini bekerja dengan cara mengelompokkan data ke dalam cluster berdasarkan kesamaan karakteristik, di mana setiap cluster memiliki centroid sebagai representasi pusatnya.
 
 Fitur:
 
--Upload file Excel.
--Edit dan hapus seluruh data.
--Pengguna dapat menginput cluster sesuai keinginan dan secara otomatis menentukan centroid.
--Hasil pengelompokkan disajikan secara urut, dimulai dari kelompok yang kurang diminati hingga kelompok yang cukup diminati.
+- Upload file Excel.
+- Edit dan hapus seluruh data.
+- Pengguna dapat menginput cluster sesuai keinginan dan secara otomatis menentukan centroid.
+- Hasil pengelompokkan disajikan secara urut, dimulai dari kelompok yang kurang diminati hingga kelompok yang cukup diminati.
 
 ## Screenshot
 
